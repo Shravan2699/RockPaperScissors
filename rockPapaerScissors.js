@@ -66,3 +66,5 @@ function game() {
         console.log(`GAME OVER.You Lose.The Computer has won ${5 - score}out of 5 rounds`)
     }  
 }
+
+console.log('Hello World!')
